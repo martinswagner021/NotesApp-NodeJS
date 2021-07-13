@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "name": "Google",
+      "url": "http://www.google.com.br/"
+    },
+    {
+      "name": "Twitter",
+      "url": "http://www.twitter.com.br/"
+    },
+    {
+      "name": "Facebook",
+      "url": "http://www.facebook.com.br/"
+    },
+    {
+      "name": "Youtube",
+      "url": "http://www.youtube.com/"
+    },
+    {
+      "name": "Globo",
+      "url": "http://www.globo.com/"
+    }
+  ]
+}
